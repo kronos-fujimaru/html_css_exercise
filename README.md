@@ -6,7 +6,7 @@ HTML/CSSを用いて以下のような画面を作成しなさい。
 
 <img src="img/html-css1.png" alt="html-css1" width="350" style="border:solid 1px #BBB">
 
-<!-- [解答例](ans/html-css1.md) -->
+[解答例](ans/html-css1.md)
 
 <br>
 <hr>
@@ -17,7 +17,7 @@ HTML/CSSを用いて以下のような画面を作成しなさい。
 
 <img src="img/html-css2.png" alt="html-css2" width="650" style="border:solid 1px #BBB">
 
-<!-- [解答例](ans/html-css2.md) -->
+[解答例](ans/html-css2.md)
 
 <br>
 <hr>
@@ -35,7 +35,7 @@ HTML/CSSを用いて以下のような画面を作成しなさい。
 
 <img src="img/html-css3.png" alt="html-css3" width="700">
 
-<!-- [解答例](ans/html-css3.md) -->
+[解答例](ans/html-css3.md)
 
 <br>
 <hr>
