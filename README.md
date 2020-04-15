@@ -27,11 +27,11 @@ HTML/CSSを用いて以下のような画面を作成しなさい。
 HTML/CSSを用いて以下のような画面を作成しなさい。
 
 【使用画像】※以下のリンクから画像を保存して使用してください。<br>
-<a href="images/table.png" download="images/table.png">table.png</a><br>
-<a href="images/desk.png" download="images/desk.png">desk.png</a><br>
-<a href="images/chair.png" download="images/chair.png">chair.png</a><br>
-<a href="images/bed.png" download="images/bed.png">bed.png</a><br>
-<a href="images/sofa.png" download="images/sofa.png">sofa.png</a>
+<a href="img/table.png" download="images/table.png">table.png</a><br>
+<a href="img/desk.png" download="images/desk.png">desk.png</a><br>
+<a href="img/chair.png" download="images/chair.png">chair.png</a><br>
+<a href="img/bed.png" download="images/bed.png">bed.png</a><br>
+<a href="img/sofa.png" download="images/sofa.png">sofa.png</a>
 
 <img src="img/html-css3.png" alt="html-css3" width="700">
 
