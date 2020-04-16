@@ -48,7 +48,7 @@ HTML/CSSを用いて以下のような画面を作成しなさい。
 
 <img src="img/html-css4.png" alt="html-css4" width="700">
 
-<!-- [解答例](ans/html-css4.md) -->
+[解答例](ans/html-css4.md)
 
 <br>
 <hr>
@@ -61,7 +61,7 @@ HTML/CSSを用いて以下のような画面を作成しなさい。
 
 <img src="img/html-css5.png" alt="html-css5" width="350" style="border:solid 1px #BBB">
 
-<!-- [解答例](ans/html-css5.md) -->
+[解答例](ans/html-css5.md)
 
 <br>
 <hr>
@@ -75,4 +75,4 @@ HTML/CSSを用いて以下のような画面を作成しなさい。
 
 <img src="img/html-css6.png" alt="html-css5" width="650" style="border:solid 1px #BBB">
 
-<!-- [解答例](ans/html-css6.md) -->
+[解答例](ans/html-css6.md)
